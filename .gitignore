@@ -30,3 +30,9 @@
 
 # Apple files
 .DS_Store
+
+# build files
+build/
+
+# Qt Creator CMakeLists.txt.user
+CMakeLists.txt.user
